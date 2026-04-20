@@ -1,4 +1,4 @@
-# 🏙️ Gurgaon Property Price Predictor
+#  Gurgaon Property Price Predictor
 
 A complete end-to-end machine learning project that predicts residential property prices in Gurgaon, Haryana. Built with Python and deployed as an interactive **Streamlit** web app powered by a **Random Forest** model trained on real Gurgaon real estate data.
 
